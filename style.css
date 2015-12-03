@@ -13,10 +13,6 @@ ul {
 
 li {
     .list-item
-{
-    float: left;
-    clear: left;
-}
 }
 
 li a {
