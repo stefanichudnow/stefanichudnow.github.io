@@ -27,3 +27,7 @@ li a {
 body {
     color: Navy;
 } 
+
+p {
+    font-size: 100%;
+}
