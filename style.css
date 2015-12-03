@@ -1,34 +1,25 @@
 body {
-    background-color: PaleTurquoise;
+    background-color: SkyBlue;
 }
 
 ul {
     list-style-type: none;
-    margin: 0; 
+    margin: 0;
     padding: 0;
     overflow: hidden;
-    border: 1px solid #F5F5F5;
-    background-color: #F5F5F5;
+    background-color: #000000;
 }
 
 li {
-    float: center;
+    float: left;
 }
 
 li a {
-    display: block;
-    color: #000000;
+    display: inline-block;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
-li a:hover:not(.active) {
-    background-color: #ddd;
-}
-
-li a.active {
-    color: white;
-    background-color: #4CAF50;
-}
 </style>
