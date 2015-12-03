@@ -12,7 +12,7 @@ ul {
 }
 
 li {
-    .list-item
+    float: left;
 }
 
 li a {
