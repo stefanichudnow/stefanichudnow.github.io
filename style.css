@@ -8,7 +8,7 @@ ul {
     margin:0 auto;
     padding: 0;
     overflow: hidden;
-    background-color: #00BFFF;
+    background-color: #87CEEB;
 }
 
 li {
@@ -25,7 +25,7 @@ li a {
 }
 
 body {
-    color: MediumBlue;
+    color: DeepSkyBlue;
 } 
 
 p {
