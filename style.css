@@ -31,3 +31,7 @@ body {
 p {
     font-size: 100%;
 }
+
+.container {
+   padding: 15px;
+}
