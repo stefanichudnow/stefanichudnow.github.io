@@ -30,6 +30,7 @@ body {
 
 p {
     font-size: 100%;
+    margin:0 auto;
 }
 
 .container {
